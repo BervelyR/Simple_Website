@@ -1,7 +1,7 @@
 body{
     background: linear-gradient(-90deg,rgb(244, 207, 213),rgba(0,0,0,0.5));
     /*background-color: rgb(246, 206, 213);*/
-    height:700px;
+   /* height:700px;*/
     width:fit-content;
     align-content: center;
     padding-left: 8em;
@@ -82,7 +82,7 @@ footer{
     /*padding: 2em;*/
 }
 .additional{
-    padding-left: 8em;
+    padding-left: 13em;
     padding-top: 0.5;
     margin-bottom: em;
 
